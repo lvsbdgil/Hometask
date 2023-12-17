@@ -1,17 +1,11 @@
 # Hometask_Python
-In this file you can find some tasks about strings in Python. There are tasks about finding symbos in strings ang
-
-
-
+In this file you can find some tasks about strings in Python. There are tasks about finding symbos in strings and counting them. There are tasks about replacing symbols in string too.
 __The tasks are written in *Russian*.__
 
 |How many tasks are in the file|How many done tasks are in the file|
 |--------------|-------------------|
 |5             |all                |
 
-
-
-  
 + __all the tasks in this file are done using Python__
 + __this file can give you more information about working with strings__
 
