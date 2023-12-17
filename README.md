@@ -3,7 +3,7 @@ In this file you can find some tasks with answers.
 + __all the tasks in this file are done using Python__
 + __this file can give you more information about working with strings__
 
-|How many tasks|How many done tasks|
+|How many tasks are in the file|How many done tasks|
 |--------------|-------------------|
 |5             |all                |
 
