@@ -5,7 +5,7 @@ In this file you can find some tasks about strings in Python
 |--------------|-------------------|
 |5             |all                |
 
-![alt text][logo]
+
 
 In this file you can find some tasks about strings in Python.  
 + __all the tasks in this file are done using Python__
@@ -13,5 +13,6 @@ In this file you can find some tasks about strings in Python.
 
 [Click here to see more about me](https://youtu.be/dQw4w9WgXcQ?si=GT5g-IzaGDn5J-aG)
 
-[logo]: https://github.com/lvsbdgil/Hometask_Python/assets/153516401/07a99470-332c-49bd-823d-3052272a1385
+![alt text][logo]
 
+[logo]: https://github.com/lvsbdgil/Hometask_Python/assets/153516401/07a99470-332c-49bd-823d-3052272a1385
